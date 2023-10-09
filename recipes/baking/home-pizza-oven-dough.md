@@ -4,8 +4,8 @@ A more burn resistant dough than many other recipes call for. This is due to the
 
 
 ## Techniques
-- [Bakers percentages](techniques/bakers-percentages.md)
-- [Slap and fold kneading](techniques/slap-and-fold-kneading-richard-bertinet.md)
+- [Bakers percentages](/techniques/bakers-percentages.md)
+- [Slap and fold kneading](/techniques/slap-and-fold-kneading-richard-bertinet.md)
 
 ## Ingredients
 - 1kg flour (Bread or 00 flour ideally, but any high-protein all-purpose flour is good)
