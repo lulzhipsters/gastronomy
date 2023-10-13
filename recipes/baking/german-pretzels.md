@@ -9,14 +9,14 @@
 - Shaping how-to coming soon.
 
 ## Ingredients
-500g flour (all purpose or bread flour)
-15g brown sugar
-30g butter (room temperature)
-10g salt
-4g dry yeast
-275ml warm water
-4% lye solution (12g lye to 300ml cold water)
-coarse or pretzel salt for topping
+- 500g flour (all purpose or bread flour)
+- 15g brown sugar
+- 30g butter (room temperature)
+- 10g salt
+- 4g dry yeast
+- 275ml warm water
+- 4% lye solution (12g lye to 300ml cold water)
+- coarse or pretzel salt for topping
 
 ## Method
 1. Mix sugar, water and yeast. Proof 5-10 minutes.
