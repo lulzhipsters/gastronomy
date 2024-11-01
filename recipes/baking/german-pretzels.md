@@ -42,3 +42,4 @@
 
 ## References
 - [Serious Eats](https://www.seriouseats.com/bavarian-style-soft-pretzels-recipe-7967998)
+- [npr] (https://www.npr.org/sections/thesalt/2014/08/09/338591194/for-a-proper-pretzel-crust-count-on-chemistry-and-memories)
