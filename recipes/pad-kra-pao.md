@@ -1,4 +1,6 @@
-#Pad Kra Pao
+# Pad Kra Pao
+
+Still very much a work-in-progress. Method and exact amounts TBC.
 
 ## Ingredients
 Per serve

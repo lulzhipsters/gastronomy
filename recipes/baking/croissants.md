@@ -1,3 +1,5 @@
+# Croissants
+
 I recommend [this recipe](https://lacuisinedegeraldine.fr/en/homemade-croissants). I'll summarise / mirror it here at some point.
 
 ## Notes
