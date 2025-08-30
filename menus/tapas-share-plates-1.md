@@ -56,7 +56,7 @@ Classic chocolate mouse. Serve with raspberries.
 - Make vinaigrette
 - Make fruit mince
 - Make tiramisu
-    - requires foccacia
+    - requires olive oil cake
     - make lemon curd
 - Make choc mousse
 - Make date/olive tapenade
