@@ -18,11 +18,11 @@ Pounded slices of steak, topped with capers, shallots, rocket. Drizzled with oli
 ### Braised Leeks
 Olive oil poached leeks, served with toasted breadcrumbs
 
-### Meatballs au poivre
-Meatballs with a pepper cream sauce. Topped with crispy potato straws. Baguette on the side
+### Poached shrimp
+Shrimp poached in a garlic, herb and panchetta olive oil.
 
-### Steak
-Tomahawk sliced with chimmichurri, mustard, horseradish
+### Steak frites
+Tomahawk, sliced. Fine-cut chips, creamy pepper pan sauce and chimmichurri on the side
 
 ### Papas bravas
 Roasted potatos with spicy vodka tomato sauce and dill mayo
@@ -40,7 +40,7 @@ With torched peaches, strawberries, basil and balsamic glaze.
 - Needs some crunch?
 
 ### Lemon and olive oil tiramisu
-Tiramisu inspired. Lemon curd layer, limoncello soaked focaccia and topped with a drizzle of olive oil
+Tiramisu inspired. Lemon curd layer, limoncello soaked olive oil cake, topped with a drizzle of olive oil
 
 ### Chocolate mousse
 Classic chocolate mouse. Serve with raspberries.
@@ -48,9 +48,9 @@ Classic chocolate mouse. Serve with raspberries.
 ## Prep
 
 ### Ahead
+- Bake olive oil cake
 - Bake focaccia
 - Poach 'scallops'
-- Make meatballs
 - Make vodka sauce
 - Make herb oil
 - Make vinaigrette
@@ -61,22 +61,24 @@ Classic chocolate mouse. Serve with raspberries.
 - Make choc mousse
 - Make date/olive tapenade
 - Make balsamic glaze
+- Make fries, under cooked.
 
 ### Same day
-- Fry potato straws
 - Make chimmichurri
 - Make dill mayo
 - Braise leeks
 - Toast breadcrumbs
 - Cook mushrooms and onion gravy
+- Prep shrimp, render panchetta in olive oil, sous vide shrimp in oil.
 
 ### Service
 - Carpaccio - pound meat
-- Steak - cook, rest, slice
+- Steak
+    - cook, rest, slice
+    - final cook of fries
 - Date/olive tapenade - Pan fry
 - Burrata - Torch peaches
 - Papas bravas - roast potatoes, reheat vodka sauce
-- Meatballs - cook
 - Reheats
     - Mushroom pintxos
     - Braised leeks
