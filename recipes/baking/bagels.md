@@ -5,8 +5,9 @@
 ### Dough
 - Bread flour (100%)
 - Water (50%)
-- Yeast (0.3%)
 - Sugar (3%)
+- Salt (2%)
+- Yeast (0.3%)
 
 ### Bath
 - Water (enough to float bagels)
